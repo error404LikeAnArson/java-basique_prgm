@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.univamu.arrayList.MyArrayListTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2019-11-08T13:54:41" hostname="LAPTOP-45BI6028" time="0.039">
+  <properties/>
+  <testcase name="toArray" classname="com.univamu.arrayList.MyArrayListTest" time="0.002"/>
+  <testcase name="testToString" classname="com.univamu.arrayList.MyArrayListTest" time="0.0"/>
+  <testcase name="remove" classname="com.univamu.arrayList.MyArrayListTest" time="0.0"/>
+  <testcase name="contains" classname="com.univamu.arrayList.MyArrayListTest" time="0.0"/>
+  <testcase name="add" classname="com.univamu.arrayList.MyArrayListTest" time="0.0"/>
+  <testcase name="get" classname="com.univamu.arrayList.MyArrayListTest" time="0.001"/>
+  <testcase name="set" classname="com.univamu.arrayList.MyArrayListTest" time="0.0"/>
+  <testcase name="size" classname="com.univamu.arrayList.MyArrayListTest" time="0.0"/>
+  <testcase name="clear" classname="com.univamu.arrayList.MyArrayListTest" time="0.0"/>
+  <testcase name="iterator" classname="com.univamu.arrayList.MyArrayListTest" time="0.007"/>
+  <testcase name="removeAll" classname="com.univamu.arrayList.MyArrayListTest" time="0.003"/>
+  <testcase name="testEquals" classname="com.univamu.arrayList.MyArrayListTest" time="0.0"/>
+  <testcase name="ensureCapacity" classname="com.univamu.arrayList.MyArrayListTest" time="0.001"/>
+  <testcase name="indexOf" classname="com.univamu.arrayList.MyArrayListTest" time="0.001"/>
+  <testcase name="testConstructor" classname="com.univamu.arrayList.MyArrayListTest" time="0.0"/>
+  <testcase name="isEmpty" classname="com.univamu.arrayList.MyArrayListTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
