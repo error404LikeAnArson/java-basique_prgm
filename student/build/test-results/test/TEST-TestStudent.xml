@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestStudent" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-09-20T14:30:35" hostname="LAPTOP-45BI6028" time="0.078">
+  <properties/>
+  <testcase name="testPrintResults()" classname="TestStudent" time="0.06"/>
+  <testcase name="testGetAverageGrade()" classname="TestStudent" time="0.001"/>
+  <testcase name="testToString()" classname="TestStudent" time="0.003"/>
+  <testcase name="testGetGrades()" classname="TestStudent" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

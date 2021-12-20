@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestCohort" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-09-20T14:30:35" hostname="LAPTOP-45BI6028" time="0.093">
+  <properties/>
+  <testcase name="testPrintStudentsResults()" classname="TestCohort" time="0.09"/>
+  <testcase name="testGetStudents()" classname="TestCohort" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
